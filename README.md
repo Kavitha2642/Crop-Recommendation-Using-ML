@@ -128,24 +128,3 @@ You can evaluate the accuracy of the model by running it with different classifi
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note**: Make sure that the required dataset (`Crop_recommendation.csv`) is available in the directory, or modify the path accordingly.
-
-```
-
-### Explanation of the README:
-
-- **Overview**: Provides a quick summary of what the project is about.
-- **Features**: Lists the key functionalities of the system.
-- **Technologies Used**: Details the main technologies employed in the project.
-- **Setup Instructions**: Explains how to set up and run the project locally.
-- **Usage**: Describes how to use the web application, including an example.
-- **Model Accuracy**: Briefly mentions the model evaluation part.
-- **Contributing**: Encourages others to contribute to the project.
-- **License**: Standard open-source license section (you can adjust it if you prefer a different license).
-
-Feel free to customize the description as needed!
